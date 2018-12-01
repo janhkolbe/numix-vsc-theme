@@ -1,0 +1,26 @@
+{
+    "name": "numix-unofficial",
+    "displayName": "Numix",
+    "description": "Unofficial theme based on the popular theme package by the Numix project",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.29.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Numix (Dark Editor)",
+                "uiTheme": "vs",
+                "path": "./themes/numix-dark-editor-color-theme.json"
+            },
+            {
+                "label": "Numix (Light Editor)",
+                "uiTheme": "vs",
+                "path": "./themes/numix-light-editor-color-theme.json"
+            }
+        ]
+    }
+}
