@@ -115,7 +115,7 @@
 		"terminal.ansiRed": "#cf5952",
 		"terminal.ansiWhite": "#bfbfbf",
 		"terminal.ansiYellow": "#ecd08e",
-		"terminal.background": "#212121",
+		"terminal.background": "#393939",
 		"terminal.foreground": "#e0e0e0",
 		"widget.shadow": "#333333",
 		//"breadcrumb.activeSelectionForeground": "#383838",
